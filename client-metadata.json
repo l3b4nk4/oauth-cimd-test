@@ -1,0 +1,16 @@
+{
+  "client_id": "https://raw.githubusercontent.com/l3b4nk4/oauth-cimd-test/main/client-metadata.json",
+  "client_name": "Research Test Client",
+  "client_uri": "https://example.com",
+  "redirect_uris": [
+    "https://webhook.site/f007e824-ab12-4fa8-89bc-c2ac9a025cb9/cb"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
